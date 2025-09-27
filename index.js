@@ -1,4 +1,4 @@
-const CleanCodeCompiler = require('./CleanCodeCompiler');
+const CleanCodeCompiler = require('./src/CleanCodeCompiler');
 
 const compiler = new CleanCodeCompiler();
 
