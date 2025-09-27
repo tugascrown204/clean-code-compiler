@@ -22,7 +22,7 @@ class CleanCodeCompiler {
     analyzeCode(code) {
         // Placeholder for analysis logic
         console.log('Analyzing code...');
-        this.feedback = 'No issues found. Keep it up!'; // Simplistic feedback for the example
+        this.feedback = 'Great job! No issues found. Keep up the good work!'; // Updated feedback message
     }
 
     getFeedback() {
