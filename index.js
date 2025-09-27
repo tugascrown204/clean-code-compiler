@@ -6,4 +6,5 @@ compiler.initialize();
 
 // Example of how to use the compiler
 compiler.analyzeCode('const x = 1;');
-compiler.getFeedback();
+const feedback = compiler.getFeedback();
+console.log(feedback);
