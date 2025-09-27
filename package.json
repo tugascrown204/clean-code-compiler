@@ -1,0 +1,13 @@
+{
+  "name": "clean-code-compiler",
+  "version": "1.0.0",
+  "description": "A tool to help write cleaner code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'No tests specified' && exit 0"
+  },
+  "keywords": ["clean code", "compiler", "coding standards"],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {}
+}
